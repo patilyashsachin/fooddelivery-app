@@ -1,7 +1,7 @@
 # Food Delivery App
 
 A Java Full Stack Online Food Delivery System built using **Spring Boot** and **MySQL**.  
-This application allows users to browse restaurants, place orders, and track deliveries in real time.
+This application allows users to browse restaurants, place orders, and track deliveries.
 
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
